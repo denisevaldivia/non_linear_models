@@ -29,7 +29,7 @@ En este readme se encuentrán mis top 3 libros favoritos que leí en 2025, estos
       </p>
     </td>
     <td width="25%" valign="top" align="center">
-      <img src="images/primera_tarea/libro1.jpg" width="180" alt="Portada del libro">
+      <img src="https://lamilanabonita.com/wp-content/uploads/2018/09/el-cuarto-mono-j-d-barker-portada-web.jpg" style="width:180px; height:120px;" alt="Portada del libro">
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ En este readme se encuentrán mis top 3 libros favoritos que leí en 2025, estos
       </p>
     </td>
     <td width="25%" valign="top" align="center">
-      <img src="images/primera_tarea/libro2.jpg" width="180" alt="Portada del libro">
+      <img src="https://m.media-amazon.com/images/I/918B4LkMDeL._UF1000,1000_QL80_.jpg" style="width:180px; height:230px;" alt="Portada del libro">
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ En este readme se encuentrán mis top 3 libros favoritos que leí en 2025, estos
       </p>
     </td>
     <td width="25%" valign="top" align="center">
-      <img src="images/primera_tarea/libro3.jpg" width="180" alt="Portada del libro">
+      <img src="https://www.wordsworth.co.za/cdn/shop/products/374164_6282d905c0d171.53669934_9781529089813_260x400.jpg?v=1658994929" style="width:180px; height:230px;" alt="Portada del libro">
     </td>
   </tr>
 </table>
